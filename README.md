@@ -14,7 +14,7 @@ An AR Plant Placement App built using Unity allows users to place virtual plants
 
 * Unity Engine
 * AR Foundation
-* ARCore / ARKit
+* ARCore
 * C#
 * 3D Plant Models
 
